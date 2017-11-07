@@ -78,7 +78,7 @@ recipe.size.regex.eeprom=^(?:\.eeprom)\s+([0-9]+).*
 tools.avrdude.path={runtime.tools.avrwriter.path}
 #tools.avrdude.cmd.path={path}/bin/avrdude
 tools.avrdude.cmd.path=/usr/bin/sudo
-tools.avrdude.do.path={path}/bin/avrdude-6.1
+tools.avrdude.do.path={path}/bin/avrdude
 tools.avrdude.config.path={path}/etc/avrdude_gpio.conf
 
 
