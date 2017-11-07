@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/kimio-kosaka/_RasPiduino/archive/v1.0.0.tar.gz",
           "archiveFileName": "RasPiduino-1.0.0.tar.gz",
-          "checksum": "SHA-256:ef88054681b53e090a74142064780a34add8e3907016fee40109239f0ab70cea",
-          "size": "5802",
+          "checksum": "SHA-256:beed3a81535428da88f163c21863e79d871e76202feb5ed70fc4f7f3685cdaa8",
+          "size": "5803",
           "boards": [
             {"name": "RasPiduino"}
           ],
