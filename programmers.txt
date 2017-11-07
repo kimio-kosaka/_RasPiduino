@@ -1,0 +1,4 @@
+raspi.name=Raspberry Pi GPIO
+raspi.protocol=linuxgpio
+raspi.program.protocol=linuxgpio
+raspi.program.tool=avrdude
