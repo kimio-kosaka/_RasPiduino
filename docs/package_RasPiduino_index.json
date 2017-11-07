@@ -3,7 +3,7 @@
     {
       "name": "_RasPiduino",
       "maintainer": "Kosaka.Lab.",
-      "websiteURL": "https://github.com/kimio-kosaka/_RasPiduino",
+      "websiteURL": "https://kimio-kosaka.github.io/_RasPiduino/",
       "email": "",
         "help": {
       "online": ""
@@ -52,7 +52,7 @@
     {
       "name": "ATMegaCore-R",
       "maintainer": "Kosaka.Lab.",
-      "websiteURL": "https://github.com/kimio-kosaka/ATMegaCore-R",
+      "websiteURL": "https://kimio-kosaka.github.io/_RasPiduino/",
       "email": "",
       "help": {
         "online": ""
@@ -92,7 +92,7 @@
     {
       "name": "ATTinyCore-R",
       "maintainer": "Spence Konde, Kosaka.Lab.",
-      "websiteURL": "https://github.com/kimio-kosaka/ATTinyCore-R",
+      "websiteURL": "https://kimio-kosaka.github.io/_RasPiduino/",
       "email": "",
       "help": {
         "online": ""
@@ -145,7 +145,7 @@
     {
       "name": "bitDuino13-R",
       "maintainer": "maris__HY, Kosaka.Lab.",
-      "websiteURL": "https://github.com/kimio-kosaka/bitDuino13-R",
+      "websiteURL": "https://kimio-kosaka.github.io/_RasPiduino/",
       "email": "",
       "help": {
         "online": ""
