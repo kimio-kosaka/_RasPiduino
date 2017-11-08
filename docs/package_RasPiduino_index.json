@@ -91,7 +91,7 @@
     },
     {
       "name": "ATTinyCore-R",
-      "maintainer": "Spence Konde, Kosaka.Lab.",
+      "maintainer": "Spence Konde /　modified by Kosaka.Lab.",
       "websiteURL": "https://kimio-kosaka.github.io/_RasPiduino/",
       "email": "",
       "help": {
@@ -144,7 +144,7 @@
     },
     {
       "name": "bitDuino13-R",
-      "maintainer": "maris__HY, Kosaka.Lab.",
+      "maintainer": "maris__HY /　modified by Kosaka.Lab.",
       "websiteURL": "https://kimio-kosaka.github.io/_RasPiduino/",
       "email": "",
       "help": {
