@@ -42,8 +42,8 @@
               "host": "arm-linux-gnueabihf",
               "url": "https://github.com/kimio-kosaka/_RasPiduino/releases/download/v1.0.0/avrdude-6.1.tar.gz",
               "archiveFileName": "avrdude-6.1.tar.gz",
-              "checksum": "SHA-256:ae638c349f13a2dca6026b6bea6607f00c81dfed61c963a75c2f2d56778ae15c",
-              "size": "216677"
+              "checksum": "SHA-256:077bf49c1793c68b37babdf47a2adcd215db5489ccac190b66301afee7b4cabf",
+              "size": "216676"
             }
           ]
         }
@@ -68,8 +68,8 @@
           },
           "url": "https://github.com/kimio-kosaka/ATMegaCore-R/archive/v1.0.0.tar.gz",
           "archiveFileName": "ATMegaCore-R-1.0.0.tar.gz",
-          "checksum": "SHA-256:1cb6c1508cb17133aaf486bcb7ac51328bf19e62fea3293b883a762db2acdbde",
-          "size": "113757",
+          "checksum": "SHA-256:a67cb1fe43b317596f6054f5cad0bddede325a3ab4cc02f9b739680b5fbc67f0",
+          "size": "113740",
           "boards": [
             {"name": "ATmega88"},
             {"name": "ATmega168"},
@@ -108,8 +108,8 @@
         },
         "url": "https://github.com/kimio-kosaka/ATtinyCore-R/archive/v1.0.0.tar.gz",
         "archiveFileName": "ATtinyCore-R-1.0.0.tar.gz",
-        "checksum": "SHA-256:319959e546b3f64d532ec3a017fcd28f95c3f20ee369e5afdb95fccd6ae828b0",
-        "size": "6356663",
+        "checksum": "SHA-256:5b3b966507c30307eb7c998d6f0969e42d3de5ff9b8dbfacb36abb2622105b52",
+        "size": "6356863",
         "boards": [
            {"name": "ATtiny441"},
            {"name": "ATtiny841"},
@@ -161,8 +161,8 @@
           },
           "url": "https://github.com/kimio-kosaka/bitDuino13-R/archive/v1.0.0.tar.gz",
           "archiveFileName": "bitDuino13-R-1.0.0.tar.gz",
-          "checksum": "SHA-256:5e25e9697df0ce88a2feac7fc9bf3f4688e333f2d6078effada6601971aab4b9",
-          "size": "61519",
+          "checksum": "SHA-256:0978fe72e07457f09ca2274e835ab2a5d78d7ad6ae16f1052d29a7151e3692a2",
+          "size": "61516",
           "boards": [
             {"name": "ATtiny13"}
           ],
