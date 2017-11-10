@@ -68,8 +68,8 @@
           },
           "url": "https://github.com/kimio-kosaka/ATMegaCore-R/archive/v1.0.0.tar.gz",
           "archiveFileName": "ATMegaCore-R-1.0.0.tar.gz",
-          "checksum": "SHA-256:a67cb1fe43b317596f6054f5cad0bddede325a3ab4cc02f9b739680b5fbc67f0",
-          "size": "113740",
+          "checksum": "SHA-256:b96a1b9e76559505abe2aa4d5395a8ba4cb1dbd22503477c2ee5a6453f5c8ac6",
+          "size": "113739",
           "boards": [
             {"name": "ATmega88"},
             {"name": "ATmega168"},
