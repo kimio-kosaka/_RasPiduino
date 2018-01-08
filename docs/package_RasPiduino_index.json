@@ -97,7 +97,7 @@
       "help": {
         "online": ""
       },
-            "platforms": [
+      "platforms": [
         {
           "name": "ATtinyCore-R",
           "architecture": "avr",
@@ -108,8 +108,8 @@
         },
         "url": "https://github.com/kimio-kosaka/ATtinyCore-R/archive/v1.0.1.tar.gz",
         "archiveFileName": "ATtinyCore-R-1.0.1.tar.gz",
-        "checksum": "SHA-256:5b3b966507c30307eb7c998d6f0969e42d3de5ff9b8dbfacb36abb2622105b52",
-        "size": "6356863",
+        "checksum": "SHA-256:776eb975eef9715c15f4be0c9be4a737a471556c6b55f63ef01c0431d7f91c6c",
+        "size": "6377675",
         "boards": [
            {"name": "ATtiny441"},
            {"name": "ATtiny841"},
@@ -131,17 +131,9 @@
            {"name": "ATtiny48"},
            {"name": "ATtiny88"}
           ],
-          "toolsDependencies": [
-            {
-              "packager": "_RasPiduino",
-              "name": "avrwriter",
-              "version": "6.1"
-            }
-          ]
+          "toolsDependencies": []
         }
-      ],
-      "tools": []
-    },
+      ],      
       "platforms": [
         {
           "name": "ATtinyCore-R",
@@ -176,13 +168,7 @@
            {"name": "ATtiny48"},
            {"name": "ATtiny88"}
           ],
-          "toolsDependencies": [
-            {
-              "packager": "_RasPiduino",
-              "name": "avrwriter",
-              "version": "6.1"
-            }
-          ]
+          "toolsDependencies": []
         }
       ],
       "tools": []
