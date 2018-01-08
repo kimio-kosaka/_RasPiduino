@@ -230,6 +230,23 @@
               "version": "6.1"
             }
           ]
+        },
+        {
+          "name": "bitDuino13-R",
+          "architecture": "avr",
+          "version": "1.0.1",
+          "category": "Contributed",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/kimio-kosaka/bitDuino13-R/archive/v1.0.0.tar.gz",
+          "archiveFileName": "bitDuino13-R-1.0.0.tar.gz",
+          "checksum": "SHA-256:b729a00eb7207fd2ec7f546dcb859428038a68944a8ab4ec1393bce64cc3790a",
+          "size": "69674",
+          "boards": [
+            {"name": "ATtiny13"}
+          ],
+          "toolsDependencies": [ ]
         }
       ],
       "tools": []
