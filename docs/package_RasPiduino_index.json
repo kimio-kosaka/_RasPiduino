@@ -30,7 +30,7 @@
       "tools": [ ]
     },
     {
-      "name": "ATMegaCore-R",
+      "name": "ATMegaCore",
       "maintainer": "Kosaka.Lab.",
       "websiteURL": "https://kimio-kosaka.github.io/_RasPiduino/",
       "email": "",
@@ -98,7 +98,7 @@
       "tools": []
     },
     {
-      "name": "bitDuino13-R",
+      "name": "bitDuino13",
       "maintainer": "maris__HY /modified by Kosaka.Lab.",
       "websiteURL": "https://kimio-kosaka.github.io/_RasPiduino/",
       "email": "",
