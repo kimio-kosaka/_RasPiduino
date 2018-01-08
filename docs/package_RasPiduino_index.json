@@ -171,7 +171,12 @@
           "toolsDependencies": []
         }
       ],
-      "tools": []
+      "tools": [            {
+              "packager": "_RasPiduino",
+              "name": "avrwriter",
+              "version": "6.1"
+            }
+　　　]
     },
     {
       "name": "bitDuino13-R",
