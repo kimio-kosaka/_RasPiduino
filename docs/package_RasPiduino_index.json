@@ -145,8 +145,8 @@
           },
           "url": "https://github.com/kimio-kosaka/GPIO-AVRDUDE/archive/v1.0.0.tar.gz",
           "archiveFileName": "GPIO-AVRDUDE-1.0.0.tar.gz",
-          "checksum": "SHA-256:dcdd61d31cbad25368485ea3492b62c76ad532b4478b09adee8a94ef2e1daae9",
-          "size": "2917",
+          "checksum": "SHA-256:7b38b408c8f2169163db8a682676a2b79dafc4b39e690aef624bd5b5dc7be06d",
+          "size": "2935",
           "boards": [
             {"name": "Install_GPIO-AVRDUDE"},{"name": "Restore_IDE-AVRDUDE"}
           ],
