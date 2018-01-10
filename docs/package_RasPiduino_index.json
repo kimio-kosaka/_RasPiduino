@@ -152,7 +152,7 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "RUNscript",
+              "packager": "GPIO-AVRDUDE",
               "name": "scripts",
               "version": "1.1"
             }
