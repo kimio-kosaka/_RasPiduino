@@ -166,7 +166,7 @@
           "systems": [
             {
               "host": "arm-linux-gnueabihf",
-              "url": "https://github.com/kimio-kosaka/Runscript/releases/download/v1.0.0/scripts-1.1.tar.gz",
+              "url": "https://github.com/kimio-kosaka/Runscript/releases/download/v1.0.1/scripts-1.1.tar.gz",
               "archiveFileName": "scripts-1.1.tar.gz",
               "checksum": "SHA-256:d932fbed949b272decf9359bf3d2fb0e7d1b4951ba27aeabb137c60028b18f05",
               "size": "297"
