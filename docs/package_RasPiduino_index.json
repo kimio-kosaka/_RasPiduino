@@ -97,7 +97,7 @@
         {
           "name": "ATtinyCore-R",
           "architecture": "avr",
-          "version": "1.0.1",
+          "version": "1.1.4",
           "category": "Contributed",
           "help": {
             "online": ""
