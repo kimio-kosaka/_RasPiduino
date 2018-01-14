@@ -104,7 +104,7 @@
         },
         "url": "https://github.com/kimio-kosaka/ATtinyCore-R/archive/v1.1.4.tar.gz",
         "archiveFileName": "ATtinyCore-R-1.1.4.tar.gz",
-        "checksum": "SHA-256:c93f91ed371ae117483864948e32030dcc3d6321",
+        "checksum": "SHA-256:98649aebb02aa8ea415931c19df836df765d9a8b6c6d69253d68ec1f5f99d47a",
         "size": "6396917",
         "boards": [
            {"name": "ATtiny441"},{"name": "ATtiny841"},
