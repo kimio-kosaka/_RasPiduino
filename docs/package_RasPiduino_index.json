@@ -169,7 +169,7 @@
       "tools": []
     },
     {
-      "name": "GPIO-AVRDUDE",
+      "name": "GPIO-AVRDUDE_installer",
       "maintainer": "Kosaka.Lab.",
       "websiteURL": "https://github.com/kimio-kosaka/GPIO-AVRDUDE",
       "email": "",
@@ -178,7 +178,7 @@
       },
       "platforms": [
         {
-          "name": "GPIO-AVRDUDE",
+          "name": "GPIO-AVRDUDE_installer",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
@@ -194,14 +194,14 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "GPIO-AVRDUDE",
+              "packager": "GPIO-AVRDUDE_installer",
               "name": "scripts",
               "version": "1.1"
             }
           ]
         },
         {
-          "name": "GPIO-AVRDUDE",
+          "name": "GPIO-AVRDUDE_installer",
           "architecture": "avr",
           "version": "1.0.1",
           "category": "Contributed",
@@ -217,7 +217,7 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "GPIO-AVRDUDE",
+              "packager": "GPIO-AVRDUDE_installer",
               "name": "scripts",
               "version": "1.1"
             }
